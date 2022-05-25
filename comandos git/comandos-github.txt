@@ -2,3 +2,5 @@
 cd
 git clone 
 git status
+git commit -m
+git push origin main
